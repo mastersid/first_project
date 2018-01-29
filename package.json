@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mastersid/first_project/issues"
   },
-  "homepage": "https://github.com/mastersid/first_project#readme"
+  "homepage": "https://github.com/mastersid/first_project#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
