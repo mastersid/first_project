@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mastersid/first_project#readme",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "webpack": "^3.10.0"
   }
 }
